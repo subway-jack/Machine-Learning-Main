@@ -121,7 +121,7 @@
   <!-- ####################深度学习#################### -->
   
   <tr>
-    <td rowspan="18">深度学习</td>
+    <td rowspan="22">深度学习</td>
     <td>深度学习</td>
     <td><a href="#">10.神经网络(Neural Network)</a></td>
     <td><a href="https://github.com/subway-jack">Subway</a></td>
@@ -223,7 +223,6 @@
   </tr>
   <tr>
     <td rowspan="4">项目</td>
-    <td rowspan="4">项目</td>
     <td><a href="#">17. 推荐系统(Recommendation System)</a></td>
     <td><a href="https://github.com/subway-jack">Subway</a></td>
     <td>549451399</td>
@@ -244,6 +243,8 @@
     <td>549451399</td>
   </tr>
 </table>
+
+
 
 
 
