@@ -98,12 +98,21 @@ Markdown 脚注的格式如下:
 **用法:**
 
 ```
-创建脚注格式类似这样 [^RUNOOB]。
+## Markdown 增加文献引用
 
-[^RUNOOB]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！
+这边文章是介绍如何在 Markdown 中增加文献引用。[<sup>1</sup>](#refer-anchor-1)
+
+## 参考
+
+<div id="refer-anchor-1"></div>
+
+- [1] [百度学术](http://xueshu.baidu.com/)
+
+<div id="refer-anchor-2"></div>
+
+- [2] [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 ```
 
 **演示效果:**
 
-![1698307976152](image/README/1698307976152.png)
-![img](media/16983054703631/16983068324505.png)
+![1698339636538](image/README/1698339636538.png)
