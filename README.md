@@ -223,22 +223,22 @@
   </tr>
   <tr>
     <td rowspan="4">项目</td>
-    <td><a href="#">17. 推荐系统(Recommendation System)</a></td>
+    <td><a href="https://github.com/subway-jack/Machine-Learning-Main/tree/main/10.项目/基于CLIP4Clip的视频检索项目">1.基于CLIP4Clip的视频检索</a></td>
     <td><a href="https://github.com/subway-jack">Subway</a></td>
     <td>549451399</td>
   </tr>
   <tr>
-    <td><a href="#">18. 智能客服(Intelligent Customer Service)</a></td>
+    <td><a href="#">2.空</a></td>
     <td><a href="https://github.com/subway-jack">Subway</a></td>
     <td>549451399</td>
   </tr>
   <tr>
-    <td><a href="#">19. 知识图谱(Knowledge Graph)</a></td>
+    <td><a href="#">3.空</a></td>
     <td><a href="https://github.com/subway-jack">Subway</a></td>
     <td>549451399</td>
   </tr>
   <tr>
-    <td><a href="#">20. 评论分析</a></td>
+    <td><a href="#">4.空</a></td>
     <td><a href="https://github.com/subway-jack">Subway</a></td>
     <td>549451399</td>
   </tr>
